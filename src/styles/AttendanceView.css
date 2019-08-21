@@ -1,0 +1,9 @@
+.fromContent {
+    padding: 20px;
+    border-width: 1px;
+    background-color: #fff;
+    border-color: #ddd;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: none;
+    border-style: solid;
+}

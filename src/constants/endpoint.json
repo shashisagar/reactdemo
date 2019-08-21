@@ -1,0 +1,10 @@
+{
+    "products" : {
+        "path": "/products",
+        "method": "get"
+    },
+    "suggestions" : {
+        "path": "/songs/suggestions",
+        "method": "post"
+    }
+}

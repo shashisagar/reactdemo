@@ -1,0 +1,12 @@
+{
+    "tracks" : {
+        "path": "/songs/tracks",
+        "method": "post",
+        "mock": false
+    },
+    "suggestions" : {
+        "path": "/songs/suggestions",
+        "method": "post",
+        "mock": false
+    }
+}

@@ -1,0 +1,31 @@
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
+
+.VAlignMiddle {
+    vertical-align: middle;
+}
+
+.prodSelectUnique {
+    width: 100%;
+    height: 35px;
+}
+
+ul.enrolmOrderDetails {
+    list-style-type: none;
+    display: inline-flex;
+    padding: 0px
+}
+ul.enrolmOrderDetails li{
+    padding-right: 20px;
+    padding-top: 10px;
+    font-size: .9em
+}

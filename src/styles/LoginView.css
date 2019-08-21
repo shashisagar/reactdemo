@@ -1,0 +1,63 @@
+* {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	outline: none;
+}
+
+body {
+    background: #f9f9f9;
+}
+
+.login-form {
+	margin: 50px auto;
+	max-width: 386px;
+}
+
+.login-form > section {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.login-form > section:first-child {
+	margin-bottom: 42px;
+}
+
+div[id=login] {
+	font: 14px/2.2em Tahoma, serif;
+	color: #444;
+	background: #f4f4f4;
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	padding: 21px 38px 35px 38px;
+	margin-bottom: 25px;
+
+	-webkit-box-shadow: 0 0 3px 0 rgba(50, 50, 50, .4);
+	   -moz-box-shadow: 0 0 3px 0 rgba(50, 50, 50, .4);
+	        box-shadow: 0 0 3px 0 rgba(50, 50, 50, .4);
+}
+div[id=login] .form-group {
+	margin-bottom: 8px;
+}
+div[id=login] label {
+	margin: 0;
+}
+div[id=login] input,
+div[id=login] button {
+	margin: 0;
+}
+div[id=login] input {
+	color: #777;
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+	box-shadow: none;
+}
+div[id=login] button {
+	padding: 7px 60px;
+	margin-top: 15px;
+	font-size: 16px;
+}

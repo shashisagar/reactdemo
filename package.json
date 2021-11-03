@@ -43,7 +43,7 @@
     "remote-redux-devtools": "^0.5.12",
     "remotedev-server": "^0.2.4",
     "url-pattern": "^1.0.3",
-    "validator": "^9.1.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "react-scripts": "^1.0.17"
